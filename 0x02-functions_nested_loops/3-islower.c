@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _islower - check if letter is lowercase or not
  * @c: Letter to check case of
