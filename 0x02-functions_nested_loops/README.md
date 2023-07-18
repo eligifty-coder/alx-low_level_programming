@@ -1,6 +1,7 @@
 # 0x02. C - Functions, nested loops
-#### Ordered List
-===Read or watch:===
+
+===Read or watch===
+
 - [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 - [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
 - [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw)
