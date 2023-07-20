@@ -18,7 +18,8 @@ A function that checks for uppercase character.
 <h6><1-isdigit.c/h6>
 A function that checks for a digit (0 through 9).
 
-<h6></h6>
+<h6>2-mul.c</h6>
+A function that multiplies two integers.
 
 
 <h6></h6>
