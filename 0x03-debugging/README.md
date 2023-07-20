@@ -10,3 +10,6 @@
 <h6>1-main.c</h6>
 causes an infinite loop
 
+<h6>2-largest_number.c</h6>
+returns the largest of 3 numbers
+
