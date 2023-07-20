@@ -15,8 +15,8 @@
 <h6>0-isupper.c</h6>
 A function that checks for uppercase character.
 
-<h6></h6>
-
+<h6><1-isdigit.c/h6>
+A function that checks for a digit (0 through 9).
 
 <h6></h6>
 
