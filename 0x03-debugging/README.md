@@ -13,3 +13,6 @@ causes an infinite loop
 <h6>2-largest_number.c</h6>
 returns the largest of 3 numbers
 
+<h6>3-print_remaining_days.c</h6> 
+takes a date and prints how many days are left in the year, taking leap years into account
+
