@@ -22,4 +22,5 @@ A function that checks for a digit (0 through 9).
 A function that multiplies two integers.
 
 
-<h6></h6>
+<h6>3-print_numbers.c</h6>
+A function that prints the numbers, from 0 to 9, followed by a new line.
