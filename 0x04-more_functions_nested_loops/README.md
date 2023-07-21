@@ -15,7 +15,7 @@
 <h6>0-isupper.c</h6>
 A function that checks for uppercase character.
 
-<h6><1-isdigit.c/h6>
+<h6>1-isdigit.c</h6>
 A function that checks for a digit (0 through 9).
 
 <h6>2-mul.c</h6>
@@ -26,7 +26,10 @@ A function that multiplies two integers.
 A function that prints the numbers, from 0 to 9, followed by a new line.
 
 <h6>4-print_most_numbers.c</h6>
-a function that prints the numbers, from 0 to 9, followed by a new line.
+A function that prints the numbers, from 0 to 9, followed by a new line.
 
 <h6>5-more_numbers.c</h6>
 A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
+
+<h6>7-print_diagonal.c</h6>
+A function that draws a diagonal line on the terminal.
