@@ -33,3 +33,6 @@ A function that prints 10 times the numbers, from 0 to 14, followed by a new lin
 
 <h6>7-print_diagonal.c</h6>
 A function that draws a diagonal line on the terminal.
+
+<h6>8-print_square.c</h6>
+A function that prints a square, followed by a new line.
