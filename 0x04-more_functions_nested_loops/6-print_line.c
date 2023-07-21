@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * Write a function that draws a straight line in the terminal.
+ * print_line - function that draws a straight line in the terminal.
  * The line should end with a \n
+ * @n: parameter to the print_line function
  */
 void print_line(int n)
 {
