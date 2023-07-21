@@ -11,6 +11,7 @@ void more_numbers(void)
 
 	while (b <= 9)
 	{
+		a = 0 ;
 		while (a <= 14)
 		{
 			if (a > 9)
@@ -21,6 +22,5 @@ void more_numbers(void)
 		}
 	_putchar('\n');
 	b++;
-	a = 0;
 	}
 }
