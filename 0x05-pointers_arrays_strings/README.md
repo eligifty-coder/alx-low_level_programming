@@ -25,4 +25,9 @@ A function that prints a string, in reverse, followed by a new line.
 
 <h6>5-rev_string.c</h6>
 A function that reverses a string.
+
+<h6>6-puts2.c</h6>
+A function that prints every other character of a string, starting with the first character, followed by a new line.
+<h6></h6>
+<h6></h6>
 <h6></h6>
