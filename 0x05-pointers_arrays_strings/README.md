@@ -13,7 +13,10 @@ A function that takes a pointer to an int as parameter and updates the value it 
 
 <h6>1-swap.c</h6>
 A function that swaps the values of two integers.
-<h6></h6>
+
+<h6>2-strlen.c</h6>
+A function that returns the length of a string.
+
 <h6></h6>
 <h6></h6>
 <h6></h6>
