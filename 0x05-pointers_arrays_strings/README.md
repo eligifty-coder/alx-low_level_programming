@@ -20,6 +20,8 @@ A function that returns the length of a string.
 <h6>3-puts.c</h6>
 A function that prints a string, followed by a new line, to stdout.
 
-<h6></h6>
+<h6>4-print_rev.c</h6>
+A function that prints a string, in reverse, followed by a new line.
+
 <h6></h6>
 <h6></h6>
