@@ -17,7 +17,9 @@ A function that swaps the values of two integers.
 <h6>2-strlen.c</h6>
 A function that returns the length of a string.
 
-<h6></h6>
+<h6>3-puts.c</h6>
+A function that prints a string, followed by a new line, to stdout.
+
 <h6></h6>
 <h6></h6>
 <h6></h6>
