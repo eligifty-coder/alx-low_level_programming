@@ -11,7 +11,8 @@
 <h6>0-reset_to_98.c</h6>
 A function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
-<h6></h6>
+<h6>1-swap.c</h6>
+A function that swaps the values of two integers.
 <h6></h6>
 <h6></h6>
 <h6></h6>
