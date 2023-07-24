@@ -34,4 +34,9 @@ A function that prints half of a string, followed by a new line.
 
 <h6>8-print_array.c</h6>
 A  function that prints n elements of an array of integers, followed by a new line.
+
+<h6>9-strcpy.c</h6>
+A function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+
+<h6></h6>
 <h6></h6>
