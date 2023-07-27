@@ -21,4 +21,6 @@ A function that changes all lowercase letters of a string to uppercase.
 
 <h6>6-cap_string.c</h6>
 A function that capitalizes all words of a string.
-<h6></h6>
+
+<h6>7-leet.c</h6>
+A function that encodes a string into 1337.
