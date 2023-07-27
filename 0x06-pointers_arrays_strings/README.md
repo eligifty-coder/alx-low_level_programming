@@ -16,6 +16,9 @@ A function that compares two strings.
 <h6>4-rev_array.c</h6>
 A function that reverses the content of an array of integers.
 
-<h6></h6>
-<h6></h6>
+<h6>5-string_toupper.c</h6>
+A function that changes all lowercase letters of a string to uppercase.
+
+<h6>6-cap_string.c</h6>
+A function that capitalizes all words of a string.
 <h6></h6>
