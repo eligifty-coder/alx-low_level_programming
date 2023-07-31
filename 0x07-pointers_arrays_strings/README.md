@@ -14,7 +14,8 @@ A function that locates a character in a string.
 <h6>3-strspn.c</h6>
 A  function that gets the length of a prefix substring.
 
-<h6></h6>
+<h6>4-strpbrk.c</h6>
+A function that searches a string for any of a set of bytes.
 
 
 <h6></h6>
