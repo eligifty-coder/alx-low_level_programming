@@ -8,11 +8,12 @@ Function that fills memory with a constant byte. Similar to memset from string.h
 <h6>1-memcpy.c</h6>
 A function that copies memory area.
 
+<h6>2-strchr.c</h6>
+A function that locates a character in a string.
 
 <h6></h6>
 
 
-<h6></h6>
 <h6></h6>
 <h6></h6>
 <h6></h6>
