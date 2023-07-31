@@ -11,9 +11,11 @@ A function that copies memory area.
 <h6>2-strchr.c</h6>
 A function that locates a character in a string.
 
+<h6>3-strspn.c</h6>
+A  function that gets the length of a prefix substring.
+
 <h6></h6>
 
 
-<h6></h6>
 <h6></h6>
 <h6></h6>
