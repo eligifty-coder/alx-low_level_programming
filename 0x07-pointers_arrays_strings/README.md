@@ -24,5 +24,6 @@ A function that locates a substring.
 
 <h6>7-print_chessboard.c</h6>
 A  function that prints the chessboard.
-<h6></h6>
-<h6></h6>
+
+<h6>8-print_diagsums.c</h6>
+A function that prints the sum of the two diagonals of a square matrix of integers.
