@@ -20,4 +20,9 @@ A function that searches a string for any of a set of bytes.
 
 <h6>5-strstr.c</h6>
 A function that locates a substring.
+
+
+<h6>7-print_chessboard.c</h6>
+A  function that prints the chessboard.
+<h6></h6>
 <h6></h6>
