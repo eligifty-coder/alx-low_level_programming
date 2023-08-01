@@ -27,3 +27,6 @@ A  function that prints the chessboard.
 
 <h6>8-print_diagsums.c</h6>
 A function that prints the sum of the two diagonals of a square matrix of integers.
+
+<h6>100-set_string.c</h6>
+A function that sets the value of a pointer to a char.
