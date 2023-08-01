@@ -18,5 +18,6 @@ A  function that gets the length of a prefix substring.
 A function that searches a string for any of a set of bytes.
 
 
-<h6></h6>
+<h6>5-strstr.c</h6>
+A function that locates a substring.
 <h6></h6>
