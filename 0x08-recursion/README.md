@@ -19,5 +19,8 @@ A function that prints a string in reverse.
 <h6>2-strlen_recursion.c</h6>
 A function that returns the length of a string.
 
+<h6>3-factorial.c</h6>
+A function that returns the factorial of a given number.
 
-
+<h6>4-pow_recursion.c</h6>
+A function that returns the value of x raised to the power of y
